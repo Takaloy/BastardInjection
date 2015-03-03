@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1002]D:\visual-studio-projects\BastardInjection\BastardInjection.Unit.Tests\bin\Debug\BastardInjection.Unit.Tests.dll</TopNode>
+  <SelectedNode>[0-1002]D:\visual-studio-projects\BastardInjection\BastardInjection.Unit.Tests\bin\Debug\BastardInjection.Unit.Tests.dll</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1002]D:\visual-studio-projects\BastardInjection\BastardInjection.Unit.Tests\bin\Debug\BastardInjection.Unit.Tests.dll" Expanded="true" />
+    <Node UniqueName="[0-1003]BastardInjection" Expanded="true" />
+    <Node UniqueName="[0-1004]BastardInjection.Unit" Expanded="true" />
+    <Node UniqueName="[0-1005]BastardInjection.Unit.Tests" Expanded="true" />
+    <Node UniqueName="[0-1000]BastardInjection.Unit.Tests.PieValidatorTests" Expanded="true" />
+  </Nodes>
+</VisualState>

@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BastardInjection", "BastardInjection\BastardInjection.csproj", "{1CBD1850-FEFE-4C01-B951-3291EDD95272}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BastardInjection.Unit.Tests", "BastardInjection.Unit.Tests\BastardInjection.Unit.Tests.csproj", "{B571BAEB-ECA0-4C26-BD16-0EE7CFA1E37F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{016140F3-40CD-4289-829B-94CFA281F6A5}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\packages.config = .nuget\packages.config
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForeignValidationEngine", "ForeignValidationEngine\ForeignValidationEngine.csproj", "{D76066D9-7C70-46B5-ACE9-7D1803FD5D69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BastardInjection.Interface", "BastardInjection.Interface\BastardInjection.Interface.csproj", "{D35785E2-F14A-4C32-9A2B-84EDD9A31CDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CBD1850-FEFE-4C01-B951-3291EDD95272}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CBD1850-FEFE-4C01-B951-3291EDD95272}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CBD1850-FEFE-4C01-B951-3291EDD95272}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CBD1850-FEFE-4C01-B951-3291EDD95272}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B571BAEB-ECA0-4C26-BD16-0EE7CFA1E37F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B571BAEB-ECA0-4C26-BD16-0EE7CFA1E37F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B571BAEB-ECA0-4C26-BD16-0EE7CFA1E37F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B571BAEB-ECA0-4C26-BD16-0EE7CFA1E37F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D76066D9-7C70-46B5-ACE9-7D1803FD5D69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D76066D9-7C70-46B5-ACE9-7D1803FD5D69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D76066D9-7C70-46B5-ACE9-7D1803FD5D69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D76066D9-7C70-46B5-ACE9-7D1803FD5D69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D35785E2-F14A-4C32-9A2B-84EDD9A31CDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D35785E2-F14A-4C32-9A2B-84EDD9A31CDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D35785E2-F14A-4C32-9A2B-84EDD9A31CDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D35785E2-F14A-4C32-9A2B-84EDD9A31CDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

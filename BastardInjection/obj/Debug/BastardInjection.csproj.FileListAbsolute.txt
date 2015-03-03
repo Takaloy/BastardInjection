@@ -1,0 +1,14 @@
+c:\users\teckloy\documents\visual studio 2013\Projects\BastardInjection\BastardInjection\obj\Debug\BastardInjection.csprojResolveAssemblyReference.cache
+c:\users\teckloy\documents\visual studio 2013\Projects\BastardInjection\BastardInjection\bin\Debug\BastardInjection.dll
+c:\users\teckloy\documents\visual studio 2013\Projects\BastardInjection\BastardInjection\bin\Debug\BastardInjection.pdb
+c:\users\teckloy\documents\visual studio 2013\Projects\BastardInjection\BastardInjection\obj\Debug\BastardInjection.dll
+c:\users\teckloy\documents\visual studio 2013\Projects\BastardInjection\BastardInjection\obj\Debug\BastardInjection.pdb
+D:\visual-studio-projects\BastardInjection\BastardInjection\bin\Debug\BastardInjection.dll
+D:\visual-studio-projects\BastardInjection\BastardInjection\bin\Debug\BastardInjection.pdb
+D:\visual-studio-projects\BastardInjection\BastardInjection\obj\Debug\BastardInjection.csprojResolveAssemblyReference.cache
+D:\visual-studio-projects\BastardInjection\BastardInjection\obj\Debug\BastardInjection.dll
+D:\visual-studio-projects\BastardInjection\BastardInjection\obj\Debug\BastardInjection.pdb
+D:\visual-studio-projects\BastardInjection\BastardInjection\bin\Debug\BastardInjection.Interface.dll
+D:\visual-studio-projects\BastardInjection\BastardInjection\bin\Debug\BastardInjection.Interface.pdb
+D:\visual-studio-projects\BastardInjection\BastardInjection\bin\Debug\ForeignValidationEngine.dll
+D:\visual-studio-projects\BastardInjection\BastardInjection\bin\Debug\ForeignValidationEngine.pdb

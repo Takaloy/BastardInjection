@@ -1,0 +1,23 @@
+c:\users\teckloy\documents\visual studio 2013\Projects\BastardInjection\BastardInjection.Unit.Tests\bin\Debug\BastardInjection.Unit.Tests.dll
+c:\users\teckloy\documents\visual studio 2013\Projects\BastardInjection\BastardInjection.Unit.Tests\bin\Debug\BastardInjection.Unit.Tests.pdb
+c:\users\teckloy\documents\visual studio 2013\Projects\BastardInjection\BastardInjection.Unit.Tests\bin\Debug\nunit.framework.dll
+c:\users\teckloy\documents\visual studio 2013\Projects\BastardInjection\BastardInjection.Unit.Tests\bin\Debug\nunit.framework.xml
+c:\users\teckloy\documents\visual studio 2013\Projects\BastardInjection\BastardInjection.Unit.Tests\obj\Debug\BastardInjection.Unit.Tests.csprojResolveAssemblyReference.cache
+c:\users\teckloy\documents\visual studio 2013\Projects\BastardInjection\BastardInjection.Unit.Tests\obj\Debug\BastardInjection.Unit.Tests.dll
+c:\users\teckloy\documents\visual studio 2013\Projects\BastardInjection\BastardInjection.Unit.Tests\obj\Debug\BastardInjection.Unit.Tests.pdb
+D:\visual-studio-projects\BastardInjection\BastardInjection.Unit.Tests\bin\Debug\BastardInjection.Unit.Tests.dll
+D:\visual-studio-projects\BastardInjection\BastardInjection.Unit.Tests\bin\Debug\BastardInjection.Unit.Tests.pdb
+D:\visual-studio-projects\BastardInjection\BastardInjection.Unit.Tests\bin\Debug\BastardInjection.dll
+D:\visual-studio-projects\BastardInjection\BastardInjection.Unit.Tests\bin\Debug\NSubstitute.dll
+D:\visual-studio-projects\BastardInjection\BastardInjection.Unit.Tests\bin\Debug\NSubstituteAutoMocker.dll
+D:\visual-studio-projects\BastardInjection\BastardInjection.Unit.Tests\bin\Debug\nunit.framework.dll
+D:\visual-studio-projects\BastardInjection\BastardInjection.Unit.Tests\bin\Debug\BastardInjection.pdb
+D:\visual-studio-projects\BastardInjection\BastardInjection.Unit.Tests\bin\Debug\NSubstitute.xml
+D:\visual-studio-projects\BastardInjection\BastardInjection.Unit.Tests\bin\Debug\nunit.framework.xml
+D:\visual-studio-projects\BastardInjection\BastardInjection.Unit.Tests\obj\Debug\BastardInjection.Unit.Tests.csprojResolveAssemblyReference.cache
+D:\visual-studio-projects\BastardInjection\BastardInjection.Unit.Tests\obj\Debug\BastardInjection.Unit.Tests.dll
+D:\visual-studio-projects\BastardInjection\BastardInjection.Unit.Tests\obj\Debug\BastardInjection.Unit.Tests.pdb
+D:\visual-studio-projects\BastardInjection\BastardInjection.Unit.Tests\bin\Debug\BastardInjection.Interface.dll
+D:\visual-studio-projects\BastardInjection\BastardInjection.Unit.Tests\bin\Debug\ForeignValidationEngine.dll
+D:\visual-studio-projects\BastardInjection\BastardInjection.Unit.Tests\bin\Debug\BastardInjection.Interface.pdb
+D:\visual-studio-projects\BastardInjection\BastardInjection.Unit.Tests\bin\Debug\ForeignValidationEngine.pdb

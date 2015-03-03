@@ -1,0 +1,5 @@
+D:\visual-studio-projects\BastardInjection\BastardInjection.Interface\bin\Debug\BastardInjection.Interface.dll
+D:\visual-studio-projects\BastardInjection\BastardInjection.Interface\bin\Debug\BastardInjection.Interface.pdb
+D:\visual-studio-projects\BastardInjection\BastardInjection.Interface\obj\Debug\BastardInjection.Interface.dll
+D:\visual-studio-projects\BastardInjection\BastardInjection.Interface\obj\Debug\BastardInjection.Interface.pdb
+D:\visual-studio-projects\BastardInjection\BastardInjection.Interface\obj\Debug\BastardInjection.Interface.csprojResolveAssemblyReference.cache

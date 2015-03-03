@@ -1,0 +1,7 @@
+D:\visual-studio-projects\BastardInjection\ForeignValidationEngine\obj\Debug\ForeignValidationEngine.csprojResolveAssemblyReference.cache
+D:\visual-studio-projects\BastardInjection\ForeignValidationEngine\bin\Debug\ForeignValidationEngine.dll
+D:\visual-studio-projects\BastardInjection\ForeignValidationEngine\bin\Debug\ForeignValidationEngine.pdb
+D:\visual-studio-projects\BastardInjection\ForeignValidationEngine\bin\Debug\BastardInjection.Interface.dll
+D:\visual-studio-projects\BastardInjection\ForeignValidationEngine\bin\Debug\BastardInjection.Interface.pdb
+D:\visual-studio-projects\BastardInjection\ForeignValidationEngine\obj\Debug\ForeignValidationEngine.dll
+D:\visual-studio-projects\BastardInjection\ForeignValidationEngine\obj\Debug\ForeignValidationEngine.pdb
